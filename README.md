@@ -377,11 +377,17 @@ Pasangan inversions:
 ---
 
 # ✅ Kesimpulan
-
 Dari implementasi algoritma di atas dapat disimpulkan bahwa:
-
 ✔ **Binary Search** sangat efisien untuk pencarian data terurut  
 ✔ **Bubble Sort** mudah dipahami tetapi kurang efisien untuk data besar  
 ✔ **Hybrid Sort** dapat meningkatkan performa dengan menggabungkan dua algoritma  
 ✔ **Merge Sorted Lists** memungkinkan penggabungan data secara efisien  
 ✔ **Merge Sort Inversion Counter** jauh lebih cepat dibanding metode naive
+
+---
+
+## 🚀 Cara Menjalankan
+### 1. Clone Repository
+```bash
+git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-Minggu-ke-3.git
+cd Tugas-Struktur-Data-Minggu-ke-3
