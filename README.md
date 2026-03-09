@@ -1,4 +1,4 @@
-📚 Python Algorithms Implementation
+# 📚 Python Algorithms Implementation
 
 Repository ini berisi implementasi beberapa algoritma dasar dalam Python, meliputi Searching, Sorting, dan Array Analysis.
 Setiap soal dilengkapi dengan deskripsi soal, kode program, contoh penggunaan, dan output hasil program.
