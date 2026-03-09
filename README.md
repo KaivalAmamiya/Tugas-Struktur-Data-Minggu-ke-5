@@ -389,5 +389,5 @@ Dari implementasi algoritma di atas dapat disimpulkan bahwa:
 ## 🚀 Cara Menjalankan
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-Minggu-ke-3.git
+git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-Minggu-ke-5.git
 cd Tugas-Struktur-Data-Minggu-ke-3
