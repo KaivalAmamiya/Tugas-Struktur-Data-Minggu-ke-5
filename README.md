@@ -223,15 +223,15 @@ Pastikan Python sudah terinstall di komputer.
 
 ### Clone repository
 ```
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-Minggu-ke-3.git
 ```
 Masuk ke folder project
 ```
-cd repository-name
+cd Tugas-Struktur-Data-Minggu-ke-3
 ```
 Jalankan program
 ```
-python filename.py
+filename.py
 ```
 
 ---
